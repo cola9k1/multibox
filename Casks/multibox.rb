@@ -1,6 +1,6 @@
 cask "multibox" do
-  version "0.22.1"
-  sha256 "fb34fb32b6e442809fbf734ee4b8df9c2658b573e6894ee09ca0f05d07ab3db4"
+  version "0.23.0"
+  sha256 "a5b606ecf3730064c439092bb8f9cfb269554225850df406493dda37ed017b77"
 
   url "https://github.com/cola9k1/multibox/releases/download/v#{version}/Multibox-#{version}-arm64.dmg"
   name "Multibox"
