@@ -7,9 +7,9 @@
 
 ## 소개 영상
 
-https://github.com/user-attachments/assets/2f738c44-bb0a-4fb7-85d2-6049f581a72b
+https://github.com/user-attachments/assets/a9656234-9951-4a73-9bd9-0062dbbe863a
 
-설치, 웹 테스트, 앱 테스트, 업데이트 알림, 환경 점검을 2분 24초에 보여 줍니다. 소리는 없고 한글 자막이 있습니다.
+설치, 웹 테스트, 앱 테스트, 앱 웹뷰의 통신 기록, 업데이트 알림, 환경 점검을 3분 5초에 보여 줍니다. 소리는 없고 한글 자막이 있습니다.
 
 ## 설치
 
